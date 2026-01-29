@@ -1,4 +1,6 @@
 # HVSC Multi-SID Address Scanner
+![Multi-SID by Year](multi-SID-by-year.png)
+![Multi-SID Address Chart](multi-SID-chart.png)
 
 A command-line tool to scan the [High Voltage SID Collection (HVSC)](https://hvsc.c64.org/) for multi-SID tunes and extract the SID chip addresses from PSID/RSID file headers.
 
