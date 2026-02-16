@@ -114,6 +114,9 @@ By SID address configuration:
 | $D400 + $DE00 | 2SID using extended I/O range |
 | $D400 + $DE00 + $DF00 | 3SID using extended I/O range |
 
+## Exported to Google Sheets for analysis:
+https://docs.google.com/spreadsheets/d/1N_9T2nVf2gA9uDX9gwbZ2zlKrjZmICLQL6FNMWZ8OFo/edit?usp=sharing
+
 ## Technical Details
 
 The tool reads SID addresses from the PSID/RSID file header:
